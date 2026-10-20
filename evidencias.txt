@@ -1,0 +1,24 @@
+EVIDENCIAS DE EJECUCIÓN
+
+Ejecuta cada caso de prueba desde el menú con `python main.py` y pega aquí la salida real de la terminal.
+
+=== Ejercicio 1. Recibo de luz ===
+
+
+=== Ejercicio 2. Calificación final ===
+
+
+=== Ejercicio 3. Total de compra ===
+
+
+=== Ejercicio 4. Estacionamiento ===
+
+
+=== Ejercicio 5. Renta de bicicletas ===
+
+
+=== Ejercicio 6. Boleto de cine ===
+
+
+=== Ejercicio 7. Multa por velocidad ===
+
